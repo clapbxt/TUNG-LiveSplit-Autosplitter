@@ -1,0 +1,7 @@
+# Local test build products and captures
+tests/*.exe
+tests/*.pdb
+research/
+*.zip
+*.bak
+*.tmp
